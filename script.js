@@ -6,25 +6,25 @@ let productsList = [
     id: 'bottle',
     name: 'Bottle',
     price: 20,
-    img: 'images/bottle.jpg',
+    img: 'https://aaryhash.github.io/simple-js-cart/bottle.jpg',
   },
   {
     id: 'coasters',
     name: 'Coasters',
     price: 27,
-    img: 'https://aaryhash.github.io/adv-web-final/coaster.jpg',
+    img: 'https://aaryhash.github.io/simple-js-cart/coasters.jpg',
   },
   {
     id: 'tumbler',
     name: 'Tumbler',
     price: 16,
-    img: 'https://aaryhash.github.io/adv-web-final/tumbler.jpg',
+    img: 'https://aaryhash.github.io/simple-js-cart/tumbler.jpg',
   },
   {
     id: 'tote-bag',
     name: 'Tote Bag',
     price: 14,
-    img: 'https://aaryhash.github.io/adv-web-final/tote-bag.jpg',
+    img: 'https://aaryhash.github.io/simple-js-cart/tote-bag.jpg',
   },
 ];
 // For localStorage functionality
