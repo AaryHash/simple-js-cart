@@ -6,7 +6,7 @@ let productsList = [
     id: 'bottle',
     name: 'Bottle',
     price: 20,
-    img: 'https://aaryhash.github.io/adv-web-final/bottle.jpg',
+    img: 'images/bottle.jpg',
   },
   {
     id: 'coasters',
